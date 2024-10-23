@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=Zheng-Changfu&hide_border=true&show_icons=true&theme=cobalt&bg_color=00000000"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=Zheng-Changfu&hide_border=true&show_icons=true"/>
     </td>
     <td align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Changfu&layout=compact&hide_progress=true&hide=html&langs_count=6&hide_border=true&bg_color=00000000" height="180"/>
