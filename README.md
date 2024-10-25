@@ -16,7 +16,7 @@
 <br />
 
 - 🥋 I'm passionate about coding and have been developing my skill ~
-- ⛺️ I have a open source project: [naive-ui-pro-components](naive-ui.pro-components.cn/), you're welcome to star and use! ~
+- ⛺️ I have a open source project: [naive-ui-pro-components](naive-ui.pro-components.cn/), you're welcome to star and use ~
 - 📨 My email address is `zcfpromise@163.com` Welcome to contact me 👏🏻 ~
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
